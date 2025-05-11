@@ -1,0 +1,5 @@
+[Frontend] Estrutura inicial do projeto Next.js criada. Configuração de rotas básicas e componentes de UI para Autenticação e Feed iniciada.
+[Frontend] Páginas de Perfil, Feed e componentes de Postagem finalizados. Integração com APIs de backend em andamento.
+[Frontend] Integração com APIs do backend para Perfil, Feed e Postagens finalizada. Ajustes de UI/UX em andamento.
+[Frontend] Testes de integração entre frontend e backend realizados para as funcionalidades principais. Ajustes de UI/UX e responsividade em andamento.
+[General] Ajustes de performance e correção de bugs identificados nos testes iniciais sendo aplicados.
